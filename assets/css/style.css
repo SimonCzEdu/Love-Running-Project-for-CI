@@ -49,6 +49,16 @@ h1 {
     list-style-type: none;
 }
 
+#menu > li {
+    margin-bottom: 1em;
+}
+
+
+/* Visual representation of active link */
+.active {
+    border-bottom: 1px solid #3a3a3a;
+}
+
 /* Main Content*/
 main {
     background-color: lightblue;
