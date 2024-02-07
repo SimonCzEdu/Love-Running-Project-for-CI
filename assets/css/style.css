@@ -42,6 +42,13 @@ h1 {
     color: #252525;
 }
 
+/* Unordered list styling */
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    list-style-type: none;
+}
+
 /* Main Content*/
 main {
     background-color: lightblue;
@@ -53,3 +60,4 @@ main {
 footer {
     background-color: orange;
 }
+
