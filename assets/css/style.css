@@ -98,7 +98,7 @@ main {
 
 /* Footer */
 footer {
-    background-color: orange;
+    background-color: rgb(255, 255, 255);
 }
 
 /* Media query: table and larger (768px and up)*/
